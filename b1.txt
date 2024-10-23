@@ -1,1 +1,2 @@
 b1 branch file
+User 2 has added this line
